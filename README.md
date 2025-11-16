@@ -83,7 +83,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## PROJECTS
 - Detection Lab (reomve)
 - SOC Automation Project (remove)
-- Artemis Gas Inc. (5-Phase Cybersecurity Initiative)
+- Artemis Gas Inc: 5-Phase Risk Assessment
 - Vulnerability Assessment
 - Security Incident Response Plan
 - OWASP Top 10 Vulnerability Exploration
